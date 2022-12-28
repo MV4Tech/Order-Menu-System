@@ -1,0 +1,58 @@
+[
+  {
+    "ID": 1,
+    "Menu": "//",
+    "Password": "admin",
+    "ReservationMade": 0,
+    "Role": 2,
+    "Username": "admin"
+  },
+  {
+    "ID": 2,
+    "Menu": "Qica na ochi",
+    "Password": "123",
+    "ReservationMade": 0,
+    "Role": 1,
+    "Username": "Georgi"
+  },
+  {
+    "ID": 3,
+    "Menu": "//",
+    "Password": "123",
+    "ReservationMade": 0,
+    "Role": 3,
+    "Username": "gotvach"
+  },
+  {
+    "ID": 4,
+    "Menu": "Qica na ochi",
+    "Password": "123",
+    "ReservationMade": 1,
+    "Role": 1,
+    "Username": "Mariqn"
+  },
+  {
+    "ID": 5,
+    "Menu": "//",
+    "Password": "123",
+    "ReservationMade": 0,
+    "Role": 2,
+    "Username": "admin1"
+  },
+  {
+    "ID": 6,
+    "Menu": "//",
+    "Password": "3",
+    "ReservationMade": 0,
+    "Role": 4,
+    "Username": "1"
+  },
+  {
+    "ID": 7,
+    "Menu": "//",
+    "Password": "123",
+    "ReservationMade": 0,
+    "Role": 3,
+    "Username": "qwe"
+  }
+]
